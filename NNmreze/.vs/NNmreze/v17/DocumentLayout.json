@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srkia\\Desktop\\NNmreze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|C:\\Users\\srkia\\Desktop\\NNmreze\\nnmreze\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|C:\\Users\\srkia\\Desktop\\NNmreze\\nnmreze\\obuka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\obuka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|c:\\users\\srkia\\desktop\\nnmreze\\nnmreze\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|c:\\users\\srkia\\desktop\\nnmreze\\nnmreze\\sloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\sloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|C:\\Users\\srkia\\Desktop\\NNmreze\\nnmreze\\mreza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\mreza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|C:\\Users\\srkia\\Desktop\\NNmreze\\nnmreze\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|C:\\Users\\srkia\\Desktop\\NNmreze\\nnmreze\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|C:\\Users\\srkia\\Desktop\\NNmreze\\nnmreze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|C:\\Users\\srkia\\Desktop\\NNmreze\\nnmreze\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DB714E2-06F6-47A9-8C95-F089388A92EC}|NNmreze\\NNmreze.csproj|solutionrelative:nnmreze\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sloj.cs",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Sloj.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Sloj.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Sloj.cs",
+              "RelativeToolTip": "NNmreze\\Sloj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:45:01.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Form1.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Form1.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Form1.cs",
+              "RelativeToolTip": "NNmreze\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:17:43.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\App.config",
+              "RelativeDocumentMoniker": "NNmreze\\App.config",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\App.config",
+              "RelativeToolTip": "NNmreze\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-13T16:15:26.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Form1.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Form1.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Form1.cs [Design]",
+              "RelativeToolTip": "NNmreze\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:15:19.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obuka.cs",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Obuka.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Obuka.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Obuka.cs",
+              "RelativeToolTip": "NNmreze\\Obuka.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAhwLcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:14:40.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mreza.cs",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Mreza.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Mreza.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Mreza.cs",
+              "RelativeToolTip": "NNmreze\\Mreza.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwDAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:14:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Neuron.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Neuron.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Neuron.cs",
+              "RelativeToolTip": "NNmreze\\Neuron.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:14:35.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Program.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Program.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Program.cs",
+              "RelativeToolTip": "NNmreze\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:14:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NNmreze\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\srkia\\Desktop\\NNmreze\\NNmreze\\Form1.Designer.cs",
+              "RelativeToolTip": "NNmreze\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:17:27.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

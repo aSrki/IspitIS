@@ -1,0 +1,47 @@
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.dll
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CopyComplete
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.xml
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CopyComplete
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+C:\Users\Milos\Downloads\Fuzzy ISPIT\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CopyComplete
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+C:\Users\Milos\Dropbox\Nastava share\Nastava\Inteligentni sistemi\2023_2024\Materijal sa vezbi\11. nedelja\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.pdb
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.xml
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.Up2Date
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+C:\Users\srkia\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
